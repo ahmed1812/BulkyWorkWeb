@@ -1,8 +1,12 @@
-﻿namespace BulkyWorkWeb.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BulkyWorkWeb.Models
 {
     public class Category
     {
+        [Key]
         public int Id { get; set; }
+        [Required]
         public string CompanyName { get; set; }
         public string Address { get; set; }
         public string JobTitel { get; set; }
