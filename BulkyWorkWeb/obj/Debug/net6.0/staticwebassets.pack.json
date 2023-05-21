@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BulkyWorkWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BulkyWork\\BulkyWorkWeb\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BulkyWork\\BulkyWorkWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

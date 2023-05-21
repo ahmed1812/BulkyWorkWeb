@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wofrHbc/eVBbMfV9Jz9jWm/omxgPvNV6BmSEaYRGa50=",
+  "Hash": "XGe9KSxyvBd0GykjXep5fKJGyCuVR1yvMS40azA2b90=",
   "Source": "BulkyWorkWeb",
   "BasePath": "_content/BulkyWorkWeb",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BulkyWork\\BulkyWorkWeb\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "BulkyWorkWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BulkyWork\\BulkyWorkWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWorkWeb",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BulkyWork\\BulkyWorkWeb\\wwwroot\\favicon.ico",
