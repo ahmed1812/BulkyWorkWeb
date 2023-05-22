@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace BulkyWorkWeb.Models
 {
@@ -7,12 +8,16 @@ namespace BulkyWorkWeb.Models
         [Key]
         public int Id { get; set; }
         [Required]
+        [DisplayName("Company Name")]
         public string CompanyName { get; set; }
         public string Address { get; set; }
-        public string JobTitel { get; set; }
+		[DisplayName("Job Titel")]
+		public string JobTitel { get; set; }
         public DateTime DateOfSubmit { get; set; } = DateTime.Now;
-        public string PhoneInterView { get; set; }
-        public string VideoInterView { get; set; }
+		[DisplayName("Phone Inter View")]
+		public string PhoneInterView { get; set; }
+		[DisplayName("Video Inter View")]
+		public string VideoInterView { get; set; }
         public string Description { get; set; }
         public string Note { get; set; }
     }
